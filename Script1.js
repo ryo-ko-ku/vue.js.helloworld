@@ -1,7 +1,7 @@
 // JavaScript source code
 let app = new Vue({
     el: "#app",
-    date: {
+    data: {
         message: "Hello vue.js!"
     }
 })
